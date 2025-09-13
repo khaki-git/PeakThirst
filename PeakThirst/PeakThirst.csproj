@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net472</TargetFramework>
+		<!-- or net48 / net471 depending on your template -->
+		<Nullable>disable</Nullable>
+		<!-- THIS removes the nullable attributes -->
+		<LangVersion>latest</LangVersion>
+		<!-- optional -->
+	</PropertyGroup>
+
+	<ItemGroup>
+      <Reference Include="0Harmony">
+        <HintPath>..\..\PEAK100\Libraries\0Harmony.dll</HintPath>
+      </Reference>
+		<Reference Include="Assembly-CSharp">
+			<HintPath>..\..\..\..\SteamLibrary\steamapps\common\PEAK\PEAK_Data\Managed\Assembly-CSharp.dll</HintPath>
+		</Reference>
+      <Reference Include="BepInEx">
+        <HintPath>..\..\PEAK100\Libraries\BepInEx.dll</HintPath>
+      </Reference>
+      <Reference Include="com.github.PEAKModding.PEAKLib.Core">
+        <HintPath>..\..\Libraries\com.github.PEAKModding.PEAKLib.Core.dll</HintPath>
+      </Reference>
+      <Reference Include="com.github.PEAKModding.PEAKLib.Stats">
+        <HintPath>..\..\Libraries\com.github.PEAKModding.PEAKLib.Stats.dll</HintPath>
+      </Reference>
+      <Reference Include="com.github.PEAKModding.SoftDependencyFix">
+        <HintPath>..\..\Libraries\com.github.PEAKModding.SoftDependencyFix.dll</HintPath>
+      </Reference>
+      <Reference Include="PhotonUnityNetworking">
+        <HintPath>..\Libraries\PhotonUnityNetworking.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine">
+        <HintPath>..\..\PEAK100\Libraries\UnityEngine.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine.CoreModule">
+        <HintPath>..\..\PEAK100\Libraries\UnityEngine.CoreModule.dll</HintPath>
+      </Reference>
+      <Reference Include="UnityEngine.ImageConversionModule">
+        <HintPath>..\Libraries\UnityEngine.ImageConversionModule.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Include="Sprites\Droplet.png" />
+	</ItemGroup>
+
+</Project>

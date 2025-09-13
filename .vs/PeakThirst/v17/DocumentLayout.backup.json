@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Modding\\PEAK\\PeakThirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|d:\\modding\\peak\\peakthirst\\peakthirst\\patches\\updatestatusespatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|solutionrelative:peakthirst\\patches\\updatestatusespatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|d:\\modding\\peak\\peakthirst\\peakthirst\\patches\\rainthirstrestorepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|solutionrelative:peakthirst\\patches\\rainthirstrestorepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|d:\\modding\\peak\\peakthirst\\peakthirst\\patches\\cannibalthirstrestorepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|solutionrelative:peakthirst\\patches\\cannibalthirstrestorepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|d:\\modding\\peak\\peakthirst\\peakthirst\\patches\\itemrestorethirstpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|solutionrelative:peakthirst\\patches\\itemrestorethirstpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|d:\\modding\\peak\\peakthirst\\peakthirst\\patches\\restorehungerpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|solutionrelative:peakthirst\\patches\\restorehungerpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|d:\\modding\\peak\\peakthirst\\peakthirst\\patches\\waterfallpusherpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|solutionrelative:peakthirst\\patches\\waterfallpusherpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|d:\\modding\\peak\\peakthirst\\peakthirst\\peakthirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|solutionrelative:peakthirst\\peakthirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|d:\\modding\\peak\\peakthirst\\peakthirst\\thirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|solutionrelative:peakthirst\\thirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|d:\\modding\\peak\\peakthirst\\peakthirst\\onsenthirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|solutionrelative:peakthirst\\onsenthirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|d:\\modding\\peak\\peakthirst\\peakthirst\\thirstaffliction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|solutionrelative:peakthirst\\thirstaffliction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|d:\\modding\\peak\\peakthirst\\peakthirst\\calculatethirstrestoration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|solutionrelative:peakthirst\\calculatethirstrestoration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|d:\\modding\\peak\\peakthirst\\peakthirst\\nullablecompat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C573D-B3E6-44F0-9533-D00D96E8B503}|PeakThirst\\PeakThirst.csproj|solutionrelative:peakthirst\\nullablecompat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RainThirstRestorePatch.cs",
+              "DocumentMoniker": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\Patches\\RainThirstRestorePatch.cs",
+              "RelativeDocumentMoniker": "PeakThirst\\Patches\\RainThirstRestorePatch.cs",
+              "ToolTip": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\Patches\\RainThirstRestorePatch.cs",
+              "RelativeToolTip": "PeakThirst\\Patches\\RainThirstRestorePatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T10:51:57.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CannibalThirstRestorePatch.cs",
+              "DocumentMoniker": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\Patches\\CannibalThirstRestorePatch.cs",
+              "RelativeDocumentMoniker": "PeakThirst\\Patches\\CannibalThirstRestorePatch.cs",
+              "ToolTip": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\Patches\\CannibalThirstRestorePatch.cs",
+              "RelativeToolTip": "PeakThirst\\Patches\\CannibalThirstRestorePatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T10:40:29.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PeakThirst",
+              "DocumentMoniker": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\PeakThirst.csproj",
+              "RelativeDocumentMoniker": "PeakThirst\\PeakThirst.csproj",
+              "ToolTip": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\PeakThirst.csproj",
+              "RelativeToolTip": "PeakThirst\\PeakThirst.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-30T10:33:38.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WaterfallPusherPatch.cs",
+              "DocumentMoniker": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\Patches\\WaterfallPusherPatch.cs",
+              "RelativeDocumentMoniker": "PeakThirst\\Patches\\WaterfallPusherPatch.cs",
+              "ToolTip": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\Patches\\WaterfallPusherPatch.cs",
+              "RelativeToolTip": "PeakThirst\\Patches\\WaterfallPusherPatch.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwB4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T10:19:34.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateStatusesPatch.cs",
+              "DocumentMoniker": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\Patches\\UpdateStatusesPatch.cs",
+              "RelativeDocumentMoniker": "PeakThirst\\Patches\\UpdateStatusesPatch.cs",
+              "ToolTip": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\Patches\\UpdateStatusesPatch.cs",
+              "RelativeToolTip": "PeakThirst\\Patches\\UpdateStatusesPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T03:27:41.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Thirst.cs",
+              "DocumentMoniker": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\Thirst.cs",
+              "RelativeDocumentMoniker": "PeakThirst\\Thirst.cs",
+              "ToolTip": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\Thirst.cs",
+              "RelativeToolTip": "PeakThirst\\Thirst.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T00:00:42.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CalculateThirstRestoration.cs",
+              "DocumentMoniker": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\CalculateThirstRestoration.cs",
+              "RelativeDocumentMoniker": "PeakThirst\\CalculateThirstRestoration.cs",
+              "ToolTip": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\CalculateThirstRestoration.cs",
+              "RelativeToolTip": "PeakThirst\\CalculateThirstRestoration.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T03:16:29.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThirstAffliction.cs",
+              "DocumentMoniker": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\ThirstAffliction.cs",
+              "RelativeDocumentMoniker": "PeakThirst\\ThirstAffliction.cs",
+              "ToolTip": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\ThirstAffliction.cs",
+              "RelativeToolTip": "PeakThirst\\ThirstAffliction.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T06:12:39.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemRestoreThirstPatch.cs",
+              "DocumentMoniker": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\Patches\\ItemRestoreThirstPatch.cs",
+              "RelativeDocumentMoniker": "PeakThirst\\Patches\\ItemRestoreThirstPatch.cs",
+              "ToolTip": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\Patches\\ItemRestoreThirstPatch.cs",
+              "RelativeToolTip": "PeakThirst\\Patches\\ItemRestoreThirstPatch.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T23:27:37.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RestoreHungerPatch.cs",
+              "DocumentMoniker": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\Patches\\RestoreHungerPatch.cs",
+              "RelativeDocumentMoniker": "PeakThirst\\Patches\\RestoreHungerPatch.cs",
+              "ToolTip": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\Patches\\RestoreHungerPatch.cs",
+              "RelativeToolTip": "PeakThirst\\Patches\\RestoreHungerPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T03:27:11.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OnsenThirst.cs",
+              "DocumentMoniker": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\OnsenThirst.cs",
+              "RelativeDocumentMoniker": "PeakThirst\\OnsenThirst.cs",
+              "ToolTip": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\OnsenThirst.cs",
+              "RelativeToolTip": "PeakThirst\\OnsenThirst.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T00:50:18.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NullableCompat.cs",
+              "DocumentMoniker": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\NullableCompat.cs",
+              "RelativeDocumentMoniker": "PeakThirst\\NullableCompat.cs",
+              "ToolTip": "D:\\Modding\\PEAK\\PeakThirst\\PeakThirst\\NullableCompat.cs",
+              "RelativeToolTip": "PeakThirst\\NullableCompat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T01:22:25.269Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
