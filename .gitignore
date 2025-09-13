@@ -2,3 +2,6 @@
 PeakThirst.sln.DotSettings.user
 Libraries
 UpdatingLibraries
+PeakThirst/bin
+PeakThirst/obj
+*.dll
